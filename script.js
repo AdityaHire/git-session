@@ -1,4 +1,0 @@
- let greet = () => {
-    return 'hello'
- }
- 
